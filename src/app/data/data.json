@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Egyptian Koshary",
+    "ingredients": "Black lentils, rice, pasta, tomato sauce, fried onions",
+    "instructions": "Boil lentils and rice, prepare the sauce, fry the onions, and combine everything.",
+    "image": "/images/koshary.jpg"
+  },
+ 
+  {
+    "id": 4,
+    "title": "Margherita Pizza",
+    "ingredients": "Pizza dough, tomato sauce, mozzarella cheese, basil",
+    "instructions": "Roll out the dough, add sauce and cheese, then bake.",
+    "image": "/images/pizza.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Lentil Soup",
+    "ingredients": "Yellow lentils, carrots, onion, cumin",
+    "instructions": "Boil all ingredients, blend them, and serve hot.",
+    "image": "/images/lentilsoup.webp"
+  },
+ 
+  {
+    "id": 7,
+    "title": "Chicken Kabsa",
+    "ingredients": "Basmati rice, chicken, kabsa spices, tomato, onion",
+    "instructions": "Sear the chicken, add ingredients, and cook the rice with them.",
+    "image": "/images/kabsa.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Chocolate Croissant",
+    "ingredients": "Croissant dough, chocolate, egg wash",
+    "instructions": "Wrap the chocolate in dough and bake.",
+    "image": "/images/croissant.webp"
+  },
+  {
+    "id": 9,
+    "title": "Fattoush Salad",
+    "ingredients": "Lettuce, cucumber, tomato, radish, green onion, toasted bread, lemon juice, olive oil",
+    "instructions": "Chop the veggies and mix with bread, lemon juice, and olive oil.",
+    "image": "/images/fattoush.webp"
+  },
+  {
+    "id": 10,
+    "title": "Indian Kebab",
+    "ingredients": "Minced meat, Indian spices, onion, bell pepper, skewers",
+    "instructions": "Mix meat with spices and onion, shape on skewers, and grill.",
+    "image": "/images/indian_kebab.webp"
+  },
+  {
+    "id": 11,
+    "title": "Grilled Fish",
+    "ingredients": "Fish, lemon, garlic, olive oil, salt and pepper",
+    "instructions": "Marinate the fish with lemon and garlic, then grill.",
+    "image": "/images/grilled_fish.webp"
+  },
+  {
+    "id": 12,
+    "title": "Basbousa",
+    "ingredients": "Semolina, sugar, yogurt, coconut, almonds",
+    "instructions": "Mix ingredients and bake until golden.",
+    "image": "/images/basbousa.jpg"
+  }
+
+]
