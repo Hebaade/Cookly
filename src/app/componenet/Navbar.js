@@ -61,7 +61,7 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="/recipes" className={linkClass('/recipes')} onClick={() => setIsOpen(false)}>
+            <Link href="/rescipes" className={linkClass('/rescipes')} onClick={() => setIsOpen(false)}>
               Recipes
             </Link>
           </li>
